@@ -1,0 +1,11 @@
+diff -urN liquidfun/Box2D/Box2D/CMakeLists.txt liquidfun-patched/Box2D/Box2D/CMakeLists.txt
+--- liquidfun/Box2D/Box2D/CMakeLists.txt	2014-07-17 06:07:42.000000000 +1100
++++ liquidfun-patched/Box2D/Box2D/CMakeLists.txt	2014-07-18 20:59:35.835950559 +1100
+@@ -43,6 +43,7 @@
+ 	Common/b2BlockAllocator.h
+ 	Common/b2Draw.h
+ 	Common/b2FreeList.h
++	Common/b2GrowableBuffer.h
+ 	Common/b2GrowableStack.h
+ 	Common/b2IntrusiveList.h
+ 	Common/b2Math.h
