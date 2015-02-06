@@ -6,7 +6,7 @@
 Summary:	A 2D physics engine for games based on Box2D
 Name:		liquidfun
 Version:	1.1.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		System/Libraries
 Url:		http://google.github.io/liquidfun/
