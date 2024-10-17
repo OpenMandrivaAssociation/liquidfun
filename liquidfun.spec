@@ -9,7 +9,7 @@ Version:	1.1.0
 Release:	3
 License:	BSD
 Group:		System/Libraries
-Url:		http://google.github.io/liquidfun/
+Url:		https://google.github.io/liquidfun/
 Source0:	https://github.com/google/liquidfun/releases/download/v%{version}/%{name}-%{version}.tar.gz
 Patch0:		liquidfun-1.1.0-cmake.patch
 BuildRequires:	cmake
